@@ -1,0 +1,165 @@
+@font-face {
+    font-family:GoBold ;
+    src: url(fonts/Gobold-Regular.otf);
+}
+
+#acai {
+    width: 100%;
+}
+
+#logo {
+    margin: 5px;
+    height: 80px;
+    
+}
+
+h4{
+    font-size: 40pt;
+    padding: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: GoBold;    
+}
+
+p{
+    font-family: 'Overpass', sans-serif;
+}
+
+#indexParagraph{
+    font-family: 'Overpass', sans-serif;
+    width: 700px;
+    display: inline-block;
+    margin-left: 30px;
+}
+#navbar{
+    font-family: 'Overpass', sans-serif;
+    
+    float: right;
+    list-style-type: none;
+    margin:0 ;
+    padding: 0;
+}
+
+  li {
+    display: inline;
+  }
+
+  .formBox{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 100px;
+  }
+
+  .formFooter{
+    text-align: center;
+    margin-top: 10%;
+    
+  }
+
+  .formHeader{
+    text-align: center;
+    
+  }
+
+  .headerTwo{
+    text-align: center;
+    padding-top: 10px;
+    color: white;    background-color: black;
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height:30px;
+  }
+
+.locationList{
+    text-align: center;
+}
+
+table{
+margin-top: 10px;
+border-collapse: collapse;
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+
+}
+
+td,th{
+    padding: 8px;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+    
+    
+}
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+tr:hover{
+    background-color: gray;
+}
+
+#locationPic{
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu{
+    width:100%;
+}
+
+.h1headerAlign{
+    text-align: center;
+    font-family: overpass;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.h2headerAlign{
+    text-align: center;
+    font-family: overpass;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#aboutParagraph{
+    margin-top: 20px;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#juice{
+    margin-top: 1px;
+    width:33%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.contactBox{
+    margin-top: 150px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+
+}
+
+.plantBasedBox{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    color: black;
+    margin-bottom: 50px;
+    border: solid 1px black;
+    width: 530px;
+    height: 70px;
+
+    
+}
